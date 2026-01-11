@@ -5,7 +5,11 @@
 
 <section class=" mt-10">
     <h1 class="font-semibold text-2xl">Abd Wahid</h1>
-    <p class="text-zinc-600 mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam officiis praesentium provident!</p>
+    <p class="text-zinc-600 mt-3 text-sm">
+    Hi! I’m a beginner web developer passionate about learning and building projects with modern web tools. <span class="bg-zinc-500 text-white">I love exploring Linux</span>, experimenting with <span class="bg-zinc-500 text-white">Svelte, Vue.js, React.js and Tailwind CSS,</span> and improving my skills every day. I’m excited to create useful and interactive web applications while growing as a developer.
+
+    </p>
+    <!-- <p class="text-zinc-600 text-sm mt-2">Hi! I’m a beginner web developer who loves Linux, learning new web tools, and building small projects with Svelte, Vue.js, React.js and Tailwind CSS.</p> -->
     <div class="mt-2">
         <p class="text-sm"><span class="flex gap-1 items-center"><Globe class="w-4"/>Bogor, Jawa Barat</span></p>
     </div>
