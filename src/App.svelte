@@ -4,6 +4,7 @@
   import WorkSection from "./components/WorkSection.svelte";
   import Layout from "./layouts/BaseLayout.svelte";
   import SkillSection from './components/SkillSection.svelte';
+  import ProjectSection from './components/ProjectSection.svelte';
 </script>
 
 
@@ -11,4 +12,5 @@
     <About/>
     <WorkSection jobs= {workExperience}/>
     <SkillSection/>
+    <ProjectSection/>
 </Layout>

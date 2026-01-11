@@ -7,7 +7,7 @@
     <h1 class="font-semibold text-2xl">Abd Wahid</h1>
     <p class="text-zinc-600 mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam officiis praesentium provident!</p>
     <div class="mt-2">
-        <p class="text-sm"><span class="flex gap-1"><Globe class="w-4"/>Bogor, Jawa Barat</span></p>
+        <p class="text-sm"><span class="flex gap-1 items-center"><Globe class="w-4"/>Bogor, Jawa Barat</span></p>
     </div>
     
     <div class="mt-4">
