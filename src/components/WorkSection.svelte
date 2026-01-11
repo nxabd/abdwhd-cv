@@ -9,7 +9,10 @@
     {#each jobs as job}
     <div class="flex justify-between mt-2">
         <span class="font-medium">{job.company}</span>
-        <span><p>{job.joinYear} - {job.endYear ? job.endYear : 'Sekarang'}</p></span>
+        
+        <p>{job.joinYear} - {job.endYear ? job.endYear : 'Sekarang' }
+        </p>
+    
     </div>
     <span>{job.role}</span>
     <p class="text-sm py-2">{job.description}</p>

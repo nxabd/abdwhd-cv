@@ -1,7 +1,7 @@
 <script>
     const projects=[
         {
-            title : 'Abdwahid',
+            title : 'Abdwhd',
             description : 'my personal website portofolio, build with svelte and tailwindcss',
             stack :['Svelte', 'Tailwind CSS']
         },
@@ -34,11 +34,11 @@
         {#each projects as item}
         <div class="min-h-30 lg:h-50 border border-slate-200 rounded-md flex flex-col justify-between p-2">
             <div>
-                <h2 class="font-semibold">{item.title}</h2>
+                <h2 class="font-semibold">{item.title }<span class="text-xl text-green-500 font-bold"> &nbsp;.</span></h2> 
                 <p class="text-xs md:text-sm">
-                    {item.description.length > 80 
+                    {item.description.length > 60 
                     ?
-                    item.description.slice(0,80) + '...' : item.description
+                    item.description.slice(0,60) + ' ...' : item.description
                     }</p>
             </div>
             
