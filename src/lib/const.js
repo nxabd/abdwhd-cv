@@ -4,27 +4,27 @@ export const linkSocial = [
   {
     name: "gmail",
     icon: Mail,
-    url: "#",
+    url: "mailto:abdwahid8813@gmail.com",
   },
   {
     name: "github",
     icon: Github,
-    url: "#",
+    url: "https://github.com/nxabd",
   },
   {
     name: "linkedin",
     icon: Linkedin,
-    url: "#",
+    url: "https://www.linkedin.com/in/xabd-wahid/",
   },
   {
     name: "instagram",
     icon: Instagram,
-    url: "#",
+    url: "https://www.instagram.com/",
   },
   {
     name: "youtube",
     icon: Youtube,
-    url: "#",
+    url: "https://www.youtube.com/@abdwahid.",
   },
 ];
 

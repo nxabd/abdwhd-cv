@@ -3,8 +3,11 @@
     import {linkSocial} from '../lib/const'
 </script>
 
-<section class=" mt-10">
-    <h1 class="font-semibold text-2xl">Abd Wahid</h1>
+<section class=" mt-2">
+        <!-- <a href="/blog" class="font-semibold italic underline flex justify-end"> /Blog</a> -->
+      <h1 class="font-semibold text-2xl">
+        <a href="/">Abd Wahid</a>
+    </h1>
     <p class="text-zinc-600 mt-3 text-sm">
     Hi! I’m a beginner web developer passionate about learning and building projects with modern web tools. <span class="bg-zinc-500 text-white">I love exploring Linux</span>, experimenting with <span class="bg-zinc-500 text-white">Svelte, Vue.js, React.js and Tailwind CSS,</span> and improving my skills every day. I’m excited to create useful and interactive web applications while growing as a developer.
 
