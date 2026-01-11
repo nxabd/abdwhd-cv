@@ -32,7 +32,7 @@
      
      <div class="mt-4 grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-3 ">
         {#each projects as item}
-        <div class="lg:h-50 border border-slate-200 rounded-md flex flex-col justify-between p-2">
+        <div class="min-h-30 lg:h-50 border border-slate-200 rounded-md flex flex-col justify-between p-2">
             <div>
                 <h2 class="font-semibold">{item.title}</h2>
                 <p class="text-xs md:text-sm">
